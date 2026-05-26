@@ -128,4 +128,4 @@ rules:
 ## 👩‍💻 Author
 
 Vaishnavi Patil
-B.Tech Information Technology
+
