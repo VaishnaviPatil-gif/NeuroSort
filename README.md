@@ -1,4 +1,4 @@
-# NeuroSort 🤖
+# NeuroSort 
 
 NeuroSort is a real-time automated file organizer bot that watches directories and intelligently sorts files using customizable rules.
 
@@ -6,7 +6,7 @@ It monitors folders continuously and organizes files automatically into categori
 
 ---
 
-## ✨ Features
+##  Features
 
 - Real-time folder monitoring using `watchdog`
 - Rule-based file organization using YAML
@@ -99,7 +99,7 @@ python main.py --watch ~/Desktop --config rules.yaml
 
 ---
 
-## 📜 Example Rules
+##  Example Rules
 
 ```yaml
 rules:
@@ -115,7 +115,7 @@ rules:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - AI-powered smart categorization
 - Web dashboard
@@ -125,7 +125,5 @@ rules:
 
 ---
 
-## 👩‍💻 Author
 
-Vaishnavi Patil
 
